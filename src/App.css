@@ -1,0 +1,7 @@
+body {
+  background-color: var(--light);
+}
+
+button:disabled {
+  cursor: default;
+}
